@@ -1,0 +1,193 @@
+﻿sonnenburg_culture_num,taxonomy,from_matrix_tube,tube_top_nums,clean_by_16s,16s_feature,plate_media,liquid_media,notes,taxid
+c0001,Acidaminococcus fermentans DSMZ 20731,,(186),y,cf111,mm,mm,,591001 
+c0002,Acidaminococcus intestini D21 BEI HM-81,,(187),y,cf112,mm,mm,,187327 
+c0003,Acidaminococcus sp. HPA0509 BEI HM-853,,(188),y,cf112,mm,mm,,1203555 
+c0099,Anaerobutyricum hallii DSM 3353,,(256),y,"cf137,cf138,cf139,cf140",mm,mm,,411469 
+c0013,Anaerococcus lactolyticus CC31C BEI HM-1034,,(197),y,cf051,mm,mm,,1073349 
+c0008,Anaerostipes caccae DSMZ 14662,,(191),y,cf057,mm,mm,,411490 
+c0009,Anaerostipes sp. 3_2_56FAA BEI HM-220 904a,,(192),y,cf057,mm,mm,,105841 
+c0010,Anaerostipes sp. 3_2_56FAA BEI HM-220 904b,,(193),y,cf057,mm,mm,,105841 
+c0011,Anaerotruncus colihominis DSMZ 17241,,"(23,23)",y,cf052,mm,mm,,445972 
+c0238,Atopobium parvulum CC14Z BEI HM-1035,,"(11,11)",y,cf059,mm,mm,,1073350 
+c0015,Bacillus sp. 7_6_55CFAA_CT2 BEI HM-231,,(199),y,cf101,mm,mm,,665957 
+c0159,Bacteroides caccae ATCC 43185,,(125),y,cf017,mm,mm,,411901 
+c0158,Bacteroides caccae CL03T12C61 BEI HM-728,,(124),y,cf017,mm,mm,,997873 
+c0160,Bacteroides cellulosilyticus CL02T12C19 BEI HM-726,,(126),y,cf015,mm,mm,,997874 
+c0161,Bacteroides cellulosilyticus DSMZ 14838,,"(14,14)",y,cf015,mm,mm,,537012 
+c0164,Bacteroides coprophilus DSMZ 18228,,(127),y,cf034,mm,mm,,547042 
+c0166,Bacteroides dorei 5_1_36/D4 BEI HM-29,,(288),y,cf012,mm,mm,,556260 
+c0167,Bacteroides dorei CL02T00C15 BEI HM-717,,(129),y,cf012,mm,mm,,997875 
+c0168,Bacteroides dorei CL02T12C06 BEI HM-719,,(130),y,cf012,mm,mm,,997876 
+c0169,Bacteroides dorei CL03T12C01 BEI HM-718,,(131),y,cf012,mm,mm,,997877 
+c0550,Bacteroides dorei DSMZ 17855,27,,y,cf012,mm,mm,,483217 
+c0173,Bacteroides eggerthii ATCC 27754,,(132),y,cf018,mm,mm,,483216 
+c0175,Bacteroides finegoldii CL09T03C10 BEI HM-727,,"(34,114)",y,"cf021,cf022",mm,mm,,997888 
+c0177,Bacteroides finegoldii DSMZ 17565,,(133),y,cf030,mm,mm,,483215 
+c0178,Bacteroides fragilis 3_1_12 BEI HM-20,,(134),y,cf025,mm,mm,,457424 
+c0179,Bacteroides fragilis CL03T12C07 BEI HM-714,,(135),y,cf025,mm,mm,,997879 
+c0180,Bacteroides fragilis CL05T00C42 BEI HM-711,,(136),y,cf025,mm,mm,,997880 
+c0181,Bacteroides fragilis CL07T12C05 BEI HM-710,,(137),y,cf025,mm,mm,,997883 
+c0182,Bacteroides fragilis NCTC 9343,,(138),y,cf025,mm,mm,,272559 
+c0183,Bacteroides intestinalis DSMZ 17393,,(140),y,"cf008,cf016",mm,mm,,471870 
+c0185,Bacteroides ovatus 3_8_47FAA BEI HM-222,,(142),y,"cf028,cf029",mm,mm,,665954 
+c0186,Bacteroides ovatus ATCC 8483,,(143),y,"cf027,cf029",mm,mm,,411476 
+c0189,Bacteroides plebeius DSMZ 17135,,(144),y,cf033,mm,mm,,484018 
+c0190,Bacteroides salyersiae CL02T12C01 BEI HM-725,,(145),y,cf024,mm,mm,,997887 
+c0213,Bacteroides sp. 1_1_30 BEI HM-22,,(161),y,cf027,mm,mm,,457387 
+c0214,Bacteroides sp. 1_1_6 BEI HM-23,,(162),y,cf021,mm,mm,,818 
+c0215,Bacteroides sp. 2_1_16 BEI HM-58,,(166),y,cf025,mm,mm,,817 
+c0216,Bacteroides sp. 2_1_22 BEI HM-18,,(167),y,cf027,mm,mm,,469588 
+c0217,Bacteroides sp. 3_1_19 BEI HM-19,,(168),y,cf032,mm,mm,,469592 
+c0218,Bacteroides sp. 4_1_36 BEI HM-258,,(169),y,cf014,mm,mm,,457393 
+c0219,Bacteroides sp. 9_1_42FAA BEI HM-27,,(170),y,cf012,mm,mm,,457395 
+c0221,Bacteroides sp. D20 BEI HM-189,,(172),y,"cf013,cf014",mm,mm,,585543 
+c0192,Bacteroides stercoris ATCC 43183,,(147),y,"cf020,cf039",mm,mm,,449673 
+c0191,Bacteroides stercoris CC31F BEI HM-1036,,(146),y,"cf020,cf039",mm,mm,,1073351 
+c0206,Bacteroides thetaiotaomicron VPI 5482,,"(19,273)",y,cf021,mm,mm,,226186 
+c0208,Bacteroides uniformis ATCC 8492,,"(15,274)",y,cf014,mm,mm,,411479 
+c0211,Bacteroides vulgatus ATCC 8482,,(159),y,"cf009,cf010,cf011",mm,mm,,435590 
+c0210,Bacteroides vulgatus CL09T03C04 BEI HM-720,,(157),y,cf010,mm,mm,,997891 
+c0212,Bacteroides xylanoisolvens XB1A DSMZ 18836,,(160),y,cf027,mm,mm,,657309 
+c0240,Bifidobacterium adolescentis L2-32,,(67),y,cf092,mm,mm,,411481 
+c0242,Bifidobacterium bifidum DSMZ 20456,,(62),y,cf055,mm,mm,,500634 
+c0244,Bifidobacterium breve DSMZ 20213,,(49),y,cf093,mm,mm,,518634 
+c0243,Bifidobacterium breve UCC2003,,(61),y,cf093,mm,mm,,326426 
+c0245,Bifidobacterium catenulatum DSMZ 16992,,(47),y,cf094,mm,mm,,566552 
+c0246,Bifidobacterium dentium ATCC 27678,,(46),y,cf091,mm,mm,,473819 
+c0247,Bifidobacterium gallicum DSMZ 20093,,(48),y,cf094,mm,mm,,561180 
+c0248,Bifidobacterium infantis ATCC 15697,,(42),y,cf093,mm,mm,,391904 
+c0250,Bifidobacterium longum NCC 2705,,(50),y,cf093,mm,mm,,206672 
+c0249,Bifidobacterium longum reuter ATCC 55813,,(45),y,cf093,mm,mm,,548480 
+c0251,Bifidobacterium pseudocatenulatum DSMZ 20438,,(54),y,cf094,mm,mm,,547043 
+c0016,Blautia hansenii DSMZ 20583,,"(17,17)",y,cf062,mm,mm,,537007 
+c0020,Blautia producta DMSZ 2950,,(203),y,"cf060,cf061",mm,mm,,1121114 
+c0024,Catenibacterium mitsuokai DSMZ 15897,,"(9,9)",y,cf121,mm,mm,,451640 
+c0272,Citrobacter portucalensis 30_2  BEI HM-34,,(53),y,cf043,mm,mm,,1639133 
+c0270,Citrobacter portucalensis 4_7_47CFAA BEI HM-299,,(40),y,cf043,mm,mm,,1639133 
+c0271,Citrobacter youngae ATCC 29220,,(55),y,cf045,mm,mm,,500640 
+c0026,Clostridiales sp. 3_1_39B/D5 BEI HM-84,,(279),y,cf083,mm,mm,,556261 
+c0283,Clostridioides difficile ATCC BAA-1801,,(91),y,cf088,mm,mm,,1496 
+c0030,Clostridioides difficile BI9,,(208),y,cf088,mm,mm,,699032 
+c0032,Clostridioides difficile M68,,(212),y,cf088,mm,mm,,699037 
+c0034,Clostridium aldenense WAL-18727 BEI HM-307,,"(2,2)",y,"cf077,cf078",mm,mm,,742731 
+c0036,Clostridium asparagiforme DSMZ 15981,,(215),y,cf071,mm,mm,,518636 
+c0040,Clostridium bolteae ATCC BAA-613,,(281),y,cf075,mm,mm,,411902 
+c0038,Clostridium bolteae CC43_001B BEI HM-1038,,(278),y,cf075,mm,mm,,1073368 
+c0039,Clostridium bolteae WAL-14578 BEI HM-318,,(280),y,cf075,mm,mm,,742732 
+c0041,Clostridium cadaveris CC40_001C BEI HM-1039,,(218),y,cf126,mm,mm,,1073355 
+c0042,Clostridium cadaveris CC44_001G BEI HM-1040,,(207),y,cf126,mm,mm,,1073356 
+c0043,Clostridium cadaveris CC88A BEI HM-1041,,"(3,30,120,3)",y,cf126,mm,mm,,1073357 
+c0045,Clostridium citroniae WAL-17108 BEI HM-315,,(282),y,"cf075,cf076",mm,mm,,742733 
+c0046,Clostridium clostridioforme 2_1_49FAA BEI HM-306,,(220),y,"cf050,cf074,cf075",mm,mm,,742735 
+c0047,Clostridium clostridioforme WAL-7855 BEI HM-317,,(202),y,"cf050,cf074,cf075",mm,mm,,742736 
+c0048,Clostridium hathewayi WAL-18680 BEI HM-308,,(222),y,cf084,mm,mm,,742737 
+c0050,Clostridium hylemonae DSMZ 15053,,(284),y,cf072,mm,mm,,553973 
+c0053,Clostridium leptum DSMZ 753,,(225),y,cf054,mm,mm,,428125 
+c0423,Clostridium orbiscindens 1_3_50AFAA BEI HM-303,,,y,cf103,mm,mm,all 3 morphologies grew on RCM,742738 
+c0059,Clostridium perfringens WAL-14572 BEI HM-310,,(229),y,"cf127,cf128,cf133",mm,mm,,742739 
+c0061,Clostridium saccharolyticum WM1 DSMZ 2544,,(277),y,cf067,mm,mm,,610130 
+c0062,Clostridium scindens ATCC 35704,,(232),y,cf079,mm,mm,,411468 
+c0066,Clostridium sporogenes ATCC 15579,,(234),y,cf131,mm,mm,,471871 
+c0068,Clostridium symbiosum BEI HM-309,,(236),y,cf082,mm,mm,,742740 
+c0067,Clostridium symbiosum WAL 14673 BEI HM-319,,"(235,na,na)",y,cf082,mm,mm,,742741 
+c0252,Collinsella aerofaciens ATCC 25986,,(52),y,cf087,mm,mm,,411903 
+c0379,Collinsella stercoris DSMZ 13279,,"(799,800)",y,cf086,mm,mm,,445975 
+c0077,Coprococcus comes ATCC 27758,,(286),y,cf146,mm,mm,,470146 
+c0080,Coprococcus sp. HPP0048 BEI HM-794,,"(1,1)",y,"cf068,cf080",mm,mm,,1078091 
+c0082,Coprococcus sp. HPP0074 BEI HM-793,,"(8,8)",y,cf068,mm,mm,,1078090 
+c0086,Dorea formicigenerans ATCC 27755,,(287),y,cf081,mm,mm,,411461 
+c0087,Dorea longicatena DSMZ 13814,,"(4,4)",y,"cf065,cf066",mm,mm,,411462 
+c0274,Edwardsiella tarda ATCC 23685,,"(24,24)",y,cf049,mm,mm,,500638 
+c0276,Enterobacter cancerogenus ATCC 35316,,(43),y,cf044,mm,mm,,500639 
+c0089,Enterococcus faecalis TX1322 BEI HM-202,,(248),y,cf116,mm,mm,,525278 
+c0090,Enterococcus faecalis TX2137 BEI HM-432,,(249),y,cf116,mm,mm,,749491 
+c0091,Enterococcus faecium ERV165 BEI HM-970,,(250),y,"cf115,cf116",mm,mm,,1134822 
+c0092,Enterococcus faecium TX1330 BEI HM-204,,(231),y,cf116,mm,mm,,525279 
+c0544,Escherichia coli MG-1655 ATCC 7000926,,,y,cf157,mm,mm,,511145 
+c0300,Eubacterium eligens DSMZ 3376,254,"(754,755)",y,"cf134,cf135,cf136",mm,mm,,515620 
+c0100,Eubacterium rectale ATCC 33656,,(257),y,cf143,mm,mm,,515619 
+c0101,Eubacterium siraeum DSMZ 15702,,(247),y,cf110,mm,mm,pink,428128 
+c0102,Eubacterium ventriosum DSMZ 3988,,(261),y,cf141,mm,mm,,411463 
+c0264,Fusobacterium nucleatum CTI-2 BEI HM-993,,(57),y,cf153,mm,mm,,1204475 
+c0266,Fusobacterium nucleatum subsp. animalis D11 BEI HM-75,,(80),y,"cf149,cf150,cf151,cf152",mm,mm,,556264 
+c0267,Fusobacterium ulcerans 12-1B BEI HM-57,,(65),y,cf154,mm,mm,,457404 
+c0298,Fusobacterium ulcerans AC2_8_11_AN_D5_FAA_7 BEI HM-1194,58,"(750,751)",y,"cf154,cf155",mm,mm,,1365972 
+c0108,Granulicatella adiacens DSMZ 9848,,(264),y,cf156,mm,mm,,638301 
+c0095,Holdemanella biformis DSMZ 3989,,(252),y,cf122,mm,mm,,518637 
+c0110,Holdemania filiformis DSMZ 12042,,(266),y,cf125,mm,mm,,545696 
+c0049,Hungatella hathewayi DSM 13479,,(223),y,cf084,mm,mm,,566550 
+c0037,Intestinibacter bartlettii DSM 16795,,(216),y,"cf089,cf090",mm,mm,,445973 
+c0111,Lachnospiraceae sp. 1_4_56FAA BEI HM-161,,"(7,7)",y,cf144,mm,mm,,658655 
+c0113,Lachnospiraceae sp. 2_1_58FAA BEI HM-154,,(268),y,cf070,mm,mm,,658082 
+c0416,Lachnospiraceae sp. 5_1_57FAA BEI HM-157a,,,y,cf079,mm,mm,,658085 
+c0546,Lactobacillus paracasei subspecies paracasei ATCC BAA-52,,,y,cf158,mm,mm,,1423829 
+c0118,Lactobacillus plantarum ATCC BAA-793,,(85),y,"cf117,cf118",mm,mm,,220668 
+c0119,Lactobacillus reuteri CF48-3A BEI HM-102,,(69),y,"cf104,cf105,cf106",mm,mm,,525341 
+c0545,Lactobacillus reuteri F275 ATCC 23272,,,y,cf106,mm,mm,,557436 
+c0120,Lactobacillus rhamnosus GG ATCC 53103,,(41),y,"cf107,cf109",mm,mm,,568703 
+c0121,Lactobacillus rhamnosus LMS2-1 BEI HM-106,,(105),y,"cf108,cf109",mm,mm,,525361 
+c0122,Lactobacillus ruminis ATCC 25644,,(104),y,"cf119,cf132",mm,mm,,525362 
+c0123,Lactococcus lactis DSMZ 20729,,(103),y,cf100,mm,mm,,272623 
+c0547,Lactococcus lactis subspecies lactis ATCC 19435,,,y,cf100,mm,mm,,1360 
+c0124,Marvinbryantia formatexigens DSMZ 14469,,(102),y,cf073,mm,mm,,478749 
+c0126,Mitsuokella multacida DSMZ 20544,,(100),y,"cf129,cf130",mm,mm,,500635 
+c0224,Parabacteroides distasonis 31_2 BEI HM-169,,(176),y,"cf032,cf040",mm,mm,,658663 
+c0165,Parabacteroides distasonis ATCC 8503,,(128),y,cf032,mm,mm,,435591 
+c0229,Parabacteroides goldsteinii CC87F BEI HM-1050,,(183),y,cf038,mm,mm,,1073364 
+c0226,Parabacteroides johnsonii DSMZ 18315,,(180),y,cf036,mm,mm,,537006 
+c0184,Parabacteroides merdae ATCC 43184,,(141),y,cf037,mm,mm,,411477 
+c0227,Parabacteroides merdae CL03T12C32 BEI HM-730,,(179),y,cf037,mm,mm,,999420 
+c0228,Parabacteroides merdae CL09T00C40 BEI HM-729,,(182),y,cf037,mm,mm,,999421 
+c0230,Parabacteroides sp. D13 BEI HM-77,,(185),y,"cf031,cf032",mm,mm,,563193 
+c0130,Peptostreptococcus sp. CC14N BEI HM-1051,,(84),y,"cf095,cf096",mm,mm,,1073365 
+c0277,Proteus penneri ATCC 35198,,(59),y,cf042,mm,mm,,471881 
+c0278,Providencia rustigianii DSM 4541,,(60),y,"cf047,cf048",mm,mm,,500637 
+c0279,Providencia stuartii ATCC 25827,,(276),y,cf046,mm,mm,,471874 
+c0136,Ruminococcaceae sp. D16 BEI HM-79,,(94),y,cf102,mm,mm,,552398 
+c0138,Ruminococcus bromii ATCC 27255,,(95),y,cf053,mm,mm,,40518 
+c0141,Ruminococcus gnavus ATCC 29149,,(93),y,cf070,mm,mm,,411470 
+c0140,Ruminococcus gnavus CC55_001C BEI HM-1056,,(56),y,cf070,mm,mm,,1073375 
+c0428,Ruminococcus lactaris ATCC 29176,,,y,cf063,mm,mm,,471875 
+c0135,Ruminococcus lactaris CC59_002D BEI HM-1057,,(99),y,"cf063,cf064",mm,mm,,1073376 
+c0143,Ruminococcus torques ATCC 27756,,(83),y,"cf145,cf148",mm,mm,,411460 
+c0149,Streptococcus parasanguinis CC87K BEI HM-1060,,(88),y,cf097,mm,mm,,1073372 
+c0389,Streptococcus sanguinis CC94A BEI HM-1061,,"(787,788)",y,cf098,mm,mm,,1073373 
+c0148,Streptococcus thermophilus LMD-9 ATCC 19258,,(64),y,cf099,mm,mm,,322159 
+c0301,Subdoligranulum variabile DSMZ 15176,86,"(756,757)",y,cf001,mm,mm,,411471 
+c0056,Tyzzerella nexilis DSM 1787,,(219),y,cf147,mm,mm,,500632 
+c0262,Varibaculum cambriense AB12_3 BEI HM-1190,,"(26,26)",y,cf056,mm,mm,,1357413 
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

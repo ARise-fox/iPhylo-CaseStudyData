@@ -1,0 +1,6 @@
+# Generate a statistical analysis methods tree
+## -f, --file: input chemicals form file
+
+# Note! Run it in the directory of iphylo.py , and modify the input and output file path to ensure that it can be found correctly
+
+python iphylo.py csv2tree -f 'analytical_methods_classification.csv'

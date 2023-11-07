@@ -1,0 +1,40 @@
+---
+title: "glacier"
+author: "lyr"
+date: "2023-06-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(tidyverse)
+library(ggtree)
+```
+
+
+```{r}
+otus <- read.csv("glacier-OTUs.csv", check.names = F)
+otus$trim_classification <- gsub("(;\\w+__)+$", "", otus$GTDB_classification)
+otus$trim_classification <- paste(otus$trim_classification, otus$id, sep = ";")
+
+# split and insert into new csv
+split_data <- otus %>%
+  separate(trim_classification, into = paste0("column", 1:8), sep = ";")
+
+taxonomy <- split_data[,(ncol(split_data)-7):ncol(split_data)]
+annotation <- split_data[,1:(ncol(split_data)-8)]
+# data forn iPhylo CLI
+write.csv(taxonomy, "taxonomy.csv", row.names = F, na = "")
+# annotation for iPhylo Visual
+write.csv(annotation, "tree_anno_leaf.csv", row.names = F, na = "")
+
+```
+
+generate with iPhylo CLI
+Run it in the path of iphylo.py and modify the file path to make sure it is found correctly
+```{python}
+ python iphylo.py csv2tree -f "taxonomy.csv" -xh -o "tree.txt"      
+```
+
+
+

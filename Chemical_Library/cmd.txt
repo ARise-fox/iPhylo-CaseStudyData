@@ -1,0 +1,9 @@
+# Generate a chemical tree using ClassyFire API
+## -f, --file: input chemicals form file
+## -fn, --fname: set output file name
+## -bl, --branch_length: set the tree with branch length 1
+## -x, --threads: number of running threads
+
+# Note! Run it in the directory of iphylo.py , and modify the input and output file path to ensure that it can be found correctly
+
+python iphylo.py chemonline -f 'input_for_CLI.txt' --fname 'chemical_library' -bl -x 12

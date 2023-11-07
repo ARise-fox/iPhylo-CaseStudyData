@@ -1,0 +1,5 @@
+dname,Compound,Peak,PubChem_CID,mz,rt,adduct,Molecular_formula_as_seen_in_ms,Monoisotopic_mass_as_seen_in_ms,Kingdom,Superclass,Class,Subclass,canonical_smiles,inchikey,mode,QE_rt,QE_ms2,qTOF_ms2
+m_c18p_0046,PUTRESCINE,,1045,89.10732,0.606,[M+H]+,C4H12N2,88.10005,Organic compounds,Organic nitrogen compounds,Organic nitrogen compounds,Amines,C(CCN)CN,KIDHWZJUCRJVML-UHFFFAOYSA-N,c18positive,0.62,*,*
+m_c18p_0112,AGMATINE,,199,131.1291225,0.628,[M+H]+,C5H14N4,130.1218465,Organic compounds,Organic nitrogen compounds,Organic nitrogen compounds,Guanidines,C(CCN=C(N)N)CN,QYPPJABKJHAVHS-UHFFFAOYSA-N,c18positive,,,
+m_c18p_0038,ORNITHINE,,6262,133.0971536,0.653,[M+H]+,C5H12N2O2,132.0898776,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",C(CC(C(=O)O)N)CN,AHLPHDHHMVZTML-BYPYZUCNSA-N,c18positive,0.666,*,*
+m_c18n_0283,CITRULLINE,,9750,174.0884153,0.831,[M-H]-,C6H13N3O3,175.0956913,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",C(CC(C(=O)O)N)CNC(=O)N,RHGKLRLOHDJJDR-BYPYZUCNSA-N,c18negative,0.796,*,*

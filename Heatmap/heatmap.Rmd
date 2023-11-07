@@ -1,0 +1,112 @@
+---
+title: "heatmap"
+author: "lyr"
+date: "2023-06-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+```
+
+## R Markdown
+# Pre-process for the Heatmap use case
+
+```{r}
+
+
+data_path <- "metadata.csv"
+taxonomy_path <- "taxonomy.csv"
+
+# data: the amount of corresponding compounds for each species
+data <- read.csv(data_path, check.names = F)
+# taxonomy: species taxonomic data with name and taxid
+taxonomy <- read.csv(taxonomy_path, check.names = F)
+head(data)
+# join metabolites and taxonomy data
+data <- left_join(data, taxonomy, by = "taxonomy")
+# get taxids to make tree by iPhylo CLI
+write.csv(data$strain_taxid, "strain_taxid.csv",row.names = F, col.names = F)
+
+## make strain_taxid the first
+strain_taxid <- data$strain_taxid
+# remove column "strain_taxid"
+data <- data[, -which(names(data) == "strain_taxid")]
+# instert column "strain_taxid" to the first column
+data <- data.frame(strain_taxid, data[,1:ncol(data)], check.names = F)
+colnames(data)[1] <- "taxid"
+```
+
+Then run iPhylo CLI to make tree from "strain_taxid.csv"
+Note! Run it in the directory of "iphylo.py" , and modify the input and output file path to ensure that it can be found correctly
+```{python}
+## -f, --file: input chemicals form file
+python iphylo.py phylotree -f 'strain_taxid.csv' 
+```
+
+After that, run the following code.
+
+## Map the species-metabolite table to tree annotation
+
+```{r}
+# anno: origin CSV file output by iPhylo CLI
+# iphylo_tree_items_for_anno.csv: one of the output file with the default tree name
+anno <- read.csv("iphylo_tree_items_for_anno.csv")
+
+anno$taxid <- as.numeric(anno$taxid)
+data$taxid <- as.numeric(data$taxid)
+anno_2 <- left_join(anno, data, by="taxid")
+# remove redundant
+anno_2 <- anno_2[, 1:which(names(anno_2)=="genus.y")-1]
+```
+
+
+
+```{r}
+# chemical tree
+nodes <- read.csv("node_info.csv", check.names = F)
+all_chemical_items <- read.csv("all_chemical_items.csv", check.names = F)
+node_info_joined <- left_join(nodes, all_chemical_items, by="id")
+```
+
+
+```{r}
+chemical_tab <- readxl::read_xlsx("Supplementary_Table_1_mz-rt_library.xlsx")
+compound_name_inchikey_map <- data.frame(chemical_tab$Compound, chemical_tab$inchikey)
+
+
+colnames(compound_name_inchikey_map)[2] <- "inchikey"
+node_info_joined <- left_join(node_info_joined, compound_name_inchikey_map, by="inchikey")
+node_info_joined <- distinct(node_info_joined)
+
+# sort
+compound_order <- node_info_joined$chemical_tab.Compound
+
+# 1-12: basic info
+columns_to_order <- colnames(anno_2)[12:length(colnames(anno_2))]
+
+# sort by columns_order
+anno_2 <- anno_2[, c("id", "taxid", "domain", "kingdom.x", "phylum.x", "class.x", "order.x", "family.x", "genus.x", "species.x", "taxonomy", intersect(compound_order, columns_to_order))]
+
+# print
+# tail(colnames(anno_2), 200)
+
+anno_1d_heatmap <- reshape2::melt(anno_2,na.rm = FALSE, measure.vars=colnames(anno_2[,12:ncol(anno_2)]),variable.name = "Metabolites",value.name = "Abundance")
+anno_1d_heatmap[anno_1d_heatmap == "NA"] <- NA
+
+# replace NA Abundance with value 0
+anno_1d_heatmap$Abundance[is.na(anno_1d_heatmap$Abundance)] <- 0
+
+# annotation_leaf output
+write.csv(anno_1d_heatmap, "tree_anno_leaf.csv",row.names = F, na="NA")
+
+```
+
+
+## Column order, input in "column order" input widget in track 1
+```{r}
+chemical_col_order = "INDOLELACTIC ACID,ADENINE,URACIL,AGMATINE,PENTANEDECANOIC ACID,4-HYDROXYPROLINE,INDOLE-3-ETHANOL,THYMINE,N6-(DELTA2-ISOPENTENYL)-ADENINE,CITRULLINE,ORNITHINE,LACTIC ACID,2-(4-HYDROXYPHENYL)PROPIONIC ACID,CAPRYLOYL GLYCINE,2-METHYLBUTYRYLGLYCINE,LUMICHROME,DETHIOBIOTIN,SPHINGANINE,TRYPTAMINE,DEOXYCARNITINE,PHOSPHOCHOLINE,BETAINE,TRIGONELLINE,N-ACETYL-5-HYDROXYTRYPTAMINE,ADIPIC ACID,CREATINE,CREATININE,HISTAMINE,N-ACETYL-GLUTAMIC ACID,ALPHA-AMINOADIPIC ACID,1-METHYL-HYDANTOIN,THIOACETIC ACID,TAURINE,ALPHA-N-ACETYL-GLUTAMINE,N-FORMYL-METHIONINE,PHENYLETHANOLAMINE,TYRAMINE,VALINE,NEPSILON,NEPSILON,NEPSILON-TRIMETHYLLYSINE,N-ACETYL-TYROSINE,HOMOCITRULLINE,3-HYDROXY-2-METHYL-4-PYRONE,4-ACETAMIDOBUTANOIC ACID,N-METHYL-GLUTAMATE,8-HYDROXYQUINOLINE,1-METHYLGUANIDINE,HISTIDINOL,TRYPTOPHAN,N-ACETYL-ALANINE,4-AMINOBENZOIC ACID,LYSINE,OPHTHALMIC ACID,PYRIDOXAMINE,N-ACETYL-METHIONINE,N-ACETYL-LEUCINE,ISOVALERYLGLYCINE,N-ACETYL-PHENYLALANINE,ETHANOLAMINE PHOSPHATE,N-ALPHA-ACETYL-LYSINE,TRYPTOPHAN ETHYL ESTER,SPERMINE,N-ACETYLTRYPTOPHAN,ETHYL 4-AMINOBENZOIC ACID,METHIONINE,ALANINE,5-HYDROXYLYSINE,GLYCINE,PROLINE,CHOLINE,2-AMINOBENZOIC ACID,RIBOFLAVIN,PTERIN,PANTOTHENIC ACID,1-AMINOCYCLOPROPANE-1-CARBOXYLIC ACID,THREONINE,PHENYLALANINE,TYROSINE,PYROGLUTAMIC ACID,HISTIDINE,LINOLEIC ACID,ARGININE,URIDINE,CYTIDINE,GLYCYL-GLYCINE,GLUTAMINE,ASPARAGINE,ASPARTIC ACID,HYPOXANTHINE,SUCCINIC ACID,N-ACETYL-ASPARTIC ACID,N-ACETYLPUTRESCINE,CARNITINE,CYSTEINE,1,6-ANHYDRO-B-GLUCOSE,CINNAMALDEHYDE,CARNOSINE,N-ACETYLNEURAMINATE,2,4-DIHYDROXYBUTANOIC ACID,4-ETHYLOCTANOIC ACID,PHENYLACETYL-GLUTAMINE,ACETYL-CARNITINE,CAPRYLIC ACID,4-METHYLVALERIC ACID,5-HYDROXY-TRYPTOPHAN,STEARIC ACID,PYRIDOXINE,5-HYDROXYMETHYL-2-FURANCARBOXYLIC ACID,N-ACETYL-CYSTEINE,PALMITIC ACID,4-AMINOBUTANOIC ACID,4-HYDROXYBENZALDEHYDE,GLYCERIC ACID,GLUCONIC ACID,HIPPURIC ACID,SPERMIDINE,CYSTATHIONINE,O-ACETYL-SERINE,GLUTAMIC ACID,ACONITIC ACID,CYTOSINE,DIACETYL,PYRUVIC ACID,N-METHYL-ASPARTIC ACID,ASP-PHE,GLYCEROL 2-PHOSPHATE,SERINE,O-PHOSPHO-SERINE,MALIC ACID,3'-CMP,BILIVERDIN,SN-GLYCERO-3-PHOSPHOCHOLINE,GUANOSINE 3',5'-CYCLIC MONOPHOSPHATE,ADENOSINE 2',3'-CYCLIC MONOPHOSPHATE,CYTIDINE 2',3'-CYCLIC MONOPHOSPHATE,2'-DEOXYGUANOSINE 5'-MONOPHOSPHATE,METHYLMALONIC ACID,1-METHYLADENOSINE,ADENOSINE,INOSINE,GUANOSINE,S-(5'-ADENOSYL)-L-HOMOCYSTEINE,5'-METHYLTHIOADENOSINE,NICOTINAMIDE"
+
+
+```
+

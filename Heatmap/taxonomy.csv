@@ -1,0 +1,256 @@
+﻿taxonomy,genus,species,strain,morphology,supplier,number,kingdom,phylum,class,order,family,strain_taxid,NCBI_Project_ID,Assembly
+Acidaminococcus fermentans DSMZ 20731,Acidaminococcus,fermentans,,,DSMZ,20731,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,591001,33685,GCF_000025305.1
+Acidaminococcus intestini D21 BEI HM-81,Acidaminococcus,intestini,D21,,BEI,HM-81,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,187327,34117,GCF_000174215.1
+Acidaminococcus sp. HPA0509 BEI HM-853,Acidaminococcus,,HPA0509,,BEI,HM-853,Bacteria,Firmicutes,Negativicutes,Acidaminococcales,Acidaminococcaceae,1203555,169431,GCF_000411395.1
+Akkermansia muciniphila ATCC BAA-835,Akkermansia,muciniphila,,,ATCC,BAA-835,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,349741,20089,GCF_000020225.1
+Anaerobutyricum hallii DSM 3353,Anaerobutyricum,hallii,,,DSMZ,3353,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,411469,18177,GCF_000173975.1
+Anaerococcus lactolyticus CC31C BEI HM-1034,Anerociccus,lactolyticus,CC31C,,BEI,HM-1034,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,1073349,71521,This manuscript
+Anaerococcus lactolyticus DSMZ 7456,Anaerococcus,lactolyticus,,,DSMZ,7456,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,525254,30951,GCF_000156575.1
+Anaerofustis stercorihominis DSMZ 17244,Anaerofustis,stercorihominis,,,DSMZ,17244,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,445971,19657,GCF_000154825.1
+Anaerostipes caccae DSMZ 14662,Anaerostipes,caccae,,,DSMZ,14662,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,411490,18213,GCF_000154305.1
+Anaerostipes sp. 3_2_56FAA BEI HM-220 904a,Anaerostipes,,3_2_56FAA,904a,BEI,HM-220,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,105841,39999,GCF_000185825.1
+Anaerostipes sp. 3_2_56FAA BEI HM-220 904b,Anaerostipes,,3_2_56FAA,904b,BEI,HM-220,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,105841,39999,GCF_000185825.1
+Anaerotruncus colihominis DSMZ 17241,Anaerotruncus,colihominis,,,DSMZ,17241,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,445972,19659,GCF_000154565.1
+Arcobacter butzleri JV22 BEI HM-298,Arcobacter,butzleri,JV22,,BEI,HM-298,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,888827,53195,GCF_000185325.1
+Atopobium parvulum CC14Z BEI HM-1035,Atopobium,parvulum,CC14Z,,BEI,HM-1035,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,1073350,71523,This manuscript
+Bacillus smithii 7_3_47FAA BEI HM-229,Bacillus,smithii,7_3_47FAA,,BEI,HM-229,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,665952,40007,GCF_000238675.1
+Bacillus sp. 7_6_55CFAA_CT2 BEI HM-231,Bacillus,,7_6_55CFAA_CT2,,BEI,HM-231,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,665957,40005,GCF_000238655.1
+Bacteroides acidifaciens DSMZ 15896,Bacteroides,acidifaciens,,,DSMZ,15896,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,1235814,243141,GCF_000613385.1
+Bacteroides caccae ATCC 43185,Bacteroides,caccae,,,ATCC,43185,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,411901,18163,GCF_000169015.1
+Bacteroides caccae CL03T12C61 BEI HM-728,Bacteroides,caccae,CL03T12C61,,BEI,HM-728,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997873,64801,GCF_000273725.1
+Bacteroides cellulosilyticus CL02T12C19 BEI HM-726,Bacteroides,cellulosilyticus,CL02T12C19,,BEI,HM-726,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997874,64803,GCF_000273015.1
+Bacteroides cellulosilyticus DSMZ 14838,Bacteroides,cellulosilyticus,,,DSMZ,14838,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,537012,30027,GCF_000158035.1
+Bacteroides coprocola DSMZ 17136,Bacteroides,coprocola,,,DSMZ,17136,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,470145,20521,GCF_000154845.1
+Bacteroides coprophilus DSMZ 18228,Bacteroides,coprophilus,,,DSMZ,18228,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,547042,30371,GCF_000157915.1
+Bacteroides dorei 5_1_36/D4 BEI HM-29,Bacteroides,dorei,5_1_36/D4,,BEI,HM-29,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,556260,32451,GCF_000158335.2
+Bacteroides dorei CL02T00C15 BEI HM-717,Bacteroides,dorei,CL02T00C15,,BEI,HM-717,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997875,64805,GCF_000273035.1
+Bacteroides dorei CL02T12C06 BEI HM-719,Bacteroides,dorei,CL02T12C06,,BEI,HM-719,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997876,64807,GCF_000273055.1
+Bacteroides dorei CL03T12C01 BEI HM-718,Bacteroides,dorei,CL03T12C01,,BEI,HM-718,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997877,64809,GCF_000273075.1
+Bacteroides dorei DSMZ 17855,Bacteroides,dorei,,,DSMZ,17855,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,483217,27831,GCF_000156075.1
+Bacteroides eggerthii 1_2_48FAA BEI HM-210,Bacteroides,eggerthii,1_2_48FAA,,BEI,HM-210,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,665953,40009,GCF_000185605.1
+Bacteroides eggerthii ATCC 27754,Bacteroides,eggerthii,,,ATCC,27754,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,483216,27827,GCF_000155815.1
+Bacteroides finegoldii CL09T03C10 BEI HM-727,Bacteroides,finegoldii,CL09T03C10,,BEI,HM-727,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997888,64831,GCF_000304195.1
+Bacteroides finegoldii DSMZ 17565,Bacteroides,finegoldii,,,DSMZ,17565,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,483215,27823,GCF_000156195.1
+Bacteroides fragilis 3_1_12 BEI HM-20,Bacteroides,fragilis,3_1_12,,BEI,HM-20,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,457424,32433,GCF_000157015.1
+Bacteroides fragilis CL03T12C07 BEI HM-714,Bacteroides,fragilis,CL03T12C07,,BEI,HM-714,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997879,64813,GCF_000273115.1
+Bacteroides fragilis CL05T00C42 BEI HM-711,Bacteroides,fragilis,CL05T00C42,,BEI,HM-711,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997880,64815,GCF_000273765.1
+Bacteroides fragilis CL07T12C05 BEI HM-710,Bacteroides,fragilis,CL07T12C05,,BEI,HM-710,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997883,64821,GCF_000273155.1
+Bacteroides fragilis NCTC 9343,Bacteroides,fragilis,,,NCTC,9343,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,272559,46,GCF_000025985.1
+Bacteroides intestinalis DSMZ 17393,Bacteroides,intestinalis,,,DSMZ,17393,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,471870,20523,GCF_000172175.1
+Bacteroides ovatus 3_8_47FAA BEI HM-222,Bacteroides,ovatus,3_8_47FAA,,BEI,HM-222,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,665954,40011,GCF_000218325.1
+Bacteroides ovatus ATCC 8483,Bacteroides,ovatus,,,ATCC,8483,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,411476,18191,GCF_000154125.1
+Bacteroides pectinophilus ATCC 43243,Bacteroides,pectinophilus,,,ATCC,43243,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,483218,27825,GCF_000155855.1
+Bacteroides plebeius DSMZ 17135,Bacteroides,plebeius,,,DSMZ,17135,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,484018,27829,GCF_000187895.1
+Bacteroides salyersiae CL02T12C01 BEI HM-725,Bacteroides,salyersiae,CL02T12C01,,BEI,HM-725,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997887,64829,GCF_000273235.1
+Bacteroides sp. 1_1_30 BEI HM-22,Bacteroides,,1_1_30,,BEI,HM-22,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,457387,41955,GCF_000218365.1
+Bacteroides sp. 1_1_6 BEI HM-23,Bacteroides,,1_1_6,,BEI,HM-23,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,818,32435,GCF_000159875.2
+Bacteroides sp. 2_1_16 BEI HM-58,Bacteroides,,2_1_16,,BEI,HM-58,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,817,38347,GCF_000162135.1
+Bacteroides sp. 2_1_22 BEI HM-18,Bacteroides,,2_1_22,,BEI,HM-18,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,469588,38349,GCF_000162155.1
+Bacteroides sp. 3_1_19 BEI HM-19,Bacteroides,,3_1_19,,BEI,HM-19,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,469592,41951,GCF_000163655.1
+Bacteroides sp. 4_1_36 BEI HM-258,Bacteroides,,4_1_36,,BEI,HM-258,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,457393,39357,GCF_000185585.1
+Bacteroides sp. 9_1_42FAA BEI HM-27,Bacteroides,,9_1_42FAA,,BEI,HM-27,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,457395,32445,GCF_000157075.2
+Bacteroides sp. D2 BEI HM-28,Bacteroides,,D2,,BEI,HM-28,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,556259,32449,GCF_000159075.2
+Bacteroides sp. D20 BEI HM-189,Bacteroides,,D20,,BEI,HM-189,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,585543,38355,GCF_000162215.1
+Bacteroides sp. WH2,Bacteroides,,WH2,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,1268240 ,183545,GCF_000463315.1
+Bacteroides stercoris ATCC 43183,Bacteroides,stercoris,,,ATCC,43183,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,449673,19859,GCF_000154525.1
+Bacteroides stercoris CC31F BEI HM-1036,Bacteroides,stercoris,CC31F,,BEI,HM-1036,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,1073351,71531,GCF_000413395.1
+Bacteroides thetaiotaomicron 3730,Bacteroides,thetaiotaomicron,3730,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron 3731,Bacteroides,thetaiotaomicron,3731,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron 633,Bacteroides,thetaiotaomicron,633,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron 7330,Bacteroides,thetaiotaomicron,7330,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron 7853,Bacteroides,thetaiotaomicron,7853,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron 8702,Bacteroides,thetaiotaomicron,8702,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron 8713,Bacteroides,thetaiotaomicron,8713,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron 8736,Bacteroides,thetaiotaomicron,8736,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron 940,Bacteroides,thetaiotaomicron,940,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron VPI 5482,Bacteroides,thetaiotaomicron,,,VPI,5482,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,226186,399,GCF_000011065.1
+Bacteroides thetaiotaomicron wh302,Bacteroides,thetaiotaomicron,wh302,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides thetaiotaomicron wh305,Bacteroides,thetaiotaomicron,wh305,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,NA,NA,Not sequenced
+Bacteroides uniformis ATCC 8492,Bacteroides,uniformis,,,ATCC,8492,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,411479,18195,GCF_000154205.1
+Bacteroides vulgatus ATCC 8482,Bacteroides,vulgatus,,,ATCC,8482,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,435590,13378,GCF_000012825.1
+Bacteroides vulgatus CL09T03C04 BEI HM-720,Bacteroides,vulgatus,CL09T03C04,,BEI,HM-720,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,997891,64837,GCF_000273295.1
+Bacteroides xylanoisolvens XB1A DSMZ 18836,Bacteroides,xylanoisolvens,XB1A,,DSMZ,18836,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,657309,39177,GCF_000210075.1
+Bifidobacterium adolescentis L2-32,Bifidobacterium,adolescentis,L2-32,,,,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,411481,18197,GCF_000154085.1
+Bifidobacterium angulatum DSMZ 20098,Bifidobacterium,angulatum,,,DSMZ,20098,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,518635,279559,GCF_001025155.1
+Bifidobacterium bifidum DSMZ 20456,Bifidobacterium,bifidum,,,DSMZ,20456,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,500634,28655,GCF_000466525.1
+Bifidobacterium breve DSMZ 20213,Bifidobacterium,breve,,,DSMZ,20213,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,518634,279561,GCF_001025175.1
+Bifidobacterium breve UCC2003,Bifidobacterium,breve,UCC2003,,,,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,326426,13487,GCF_000220135.1
+Bifidobacterium catenulatum DSMZ 16992,Bifidobacterium,catenulatum,,,DSMZ,16992,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,566552,279562,GCF_001025195.1
+Bifidobacterium dentium ATCC 27678,Bifidobacterium,dentium,,,ATCC,27678,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,473819,20555,GCF_000172135.1
+Bifidobacterium gallicum DSMZ 20093,Bifidobacterium,gallicum,,,DSMZ,20093,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,561180,30751,GCF_000173375.1
+Bifidobacterium infantis ATCC 15697,Bifidobacterium,infantis,,,ATCC,15697,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,391904,17189,GCF_000020425.1
+Bifidobacterium longum NCC 2705,Bifidobacterium,longum,,,ncc,2705,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,206672,328,GCF_000007525.1
+Bifidobacterium longum reuter ATCC 55813,Bifidobacterium,longum,retuer,,ATCC,55813,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,548480,31437,GCF_000003135.1
+Bifidobacterium pseudocatenulatum DSMZ 20438,Bifidobacterium,pseudocatenulatum,,,DSMZ,20438,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,547043,30373,GCF_000173435.1
+biophila wadsworthia,Biophila,wadsworthia,,,,,Bacteria,Proteobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,NA,NA,Not sequenced
+Blautia hansenii DSMZ 20583,Blautia,hansenii,,,DSMZ,20583,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,537007,30021,GCF_000156675.1
+Blautia hydrogenotrophica DSMZ 10507,Blautia,hydrogenotrophica,,,DSMZ,10507,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,476272,21007,GCF_000157975.1
+Blautia obeum ATCC 29174,Blautia,obeum,,,ATCC,29174,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,411459,18147,GCF_000153905.1
+Blautia producta DMSZ 2950,Blautia,producta,,,DMSZ,2950,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,1121114,169801,GCF_000373885.1
+Blautia sp. KLE 1732 BEI HM-1032,Blautia,,KLE 1732,,BEI,HM-1032,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,1226324,173639,GCF_000466565.1
+Butyrivibrio crossotus DSMZ 2876,Butyrivibrio,crossotus,,,DSMZ,2876,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,511680,28999,GCF_000156015.1
+Capnocytophaga sp. CC21_001D BEI HM-1037,Capnocytophaga,,CC21_001D,,BEI,HM-1037,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,1073354,71537,This manuscript
+Catabacter hongkongensis AB8_9 BEI HM-1192,Catabacter,hongkongensis,AB8_9,,BEI,HM-1192,Bacteria,Firmicutes,Clostridia,Clostridiales,Catabacteriaceae,1357384,212657,This manuscript
+Catenibacterium mitsuokai DSMZ 15897,Catenibacterium,mitsuokai,,,DSMZ,15897,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,451640,19923,GCF_000173795.1
+Citrobacter portucalensis 30_2  BEI HM-34,Citrobacter,portucalensis,30_2,,BEI,HM-34,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,1639133,32453,GCF_000158355.2
+Citrobacter portucalensis 4_7_47CFAA BEI HM-299,Citrobacter,portucalensis,4_7_47CFAA,,BEI,HM-299,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,1639133,46379,GCF_000238735.1
+Citrobacter youngae ATCC 29220,Citrobacter,youngae,,,ATCC,29220,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,500640,28665,GCF_000155975.1
+Clostridiales sp. 3_1_39B/D5 BEI HM-84,Clostridiales,,3_1_39B/D5,,BEI,HM-84,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,556261,32459,GCF_000190355.1
+Clostridioides difficile 630 BAA-1382,Clostridioides,difficile,630,,,BAA-1382,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,272563,78,GCF_000009205.2
+Clostridioides difficile ATCC BAA-1801,Clostridioides,difficile,BAA-1801,,ATCC,,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,1496,562328,GCA_008386005.1
+Clostridioides difficile ATCC BAA-1810,Clostridioides,difficile,BAA-1810,,ATCC,,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,NA,NA,Not sequenced
+Clostridioides difficile BI9,Clostridioides,difficile,BI-9,,Lawley,,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,699032,42473,GCA_000270485.1
+Clostridioides difficile CD196,Clostridioides,difficile,CD196,,Lawley,,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,645462,38037,GCF_000085225.1
+Clostridioides difficile M68,Clostridioides,difficile,M68,,Lawley,,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,699037,42463,GCF_000210395.1
+Clostridioides difficile R20291,Clostridioides,difficile,R20291,,Lawley,,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,645463,38039,GCF_000027105.1
+Clostridium aldenense WAL-18727 BEI HM-307,Clostridium,aldenense,WAL-18727,,BEI,HM-307,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742731,46381,Not assembled
+Clostridium asparagiforme DSMZ 15981,Clostridium,asparagiforme,,,DSMZ,15981,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,518636,29263,GCF_000158075.1
+Clostridium bolteae ATCC BAA-613,Clostridium,bolteae,,,ATCC,BAA-613,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,411902,18165,GCF_000154365.1
+Clostridium bolteae CC43_001B BEI HM-1038,Clostridium,bolteae,CC43_001B,,BEI,HM-1038 ,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,1073368,71569,Dodd et al 2017
+Clostridium bolteae WAL-14578 BEI HM-318,Clostridium,bolteae,WAL-14578,,BEI,HM-318,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742732,46383,GCF_001078425.1
+Clostridium cadaveris CC40_001C BEI HM-1039,Clostridium,cadaveris,CC40_001C,,BEI,HM-1039,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,1073355,71541,Dodd et al 2017
+Clostridium cadaveris CC44_001G BEI HM-1040,Clostridium,cadaveris,CC44_001G,,BEI,HM-1040,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,1073356,71543,Dodd et al 2017
+Clostridium cadaveris CC88A BEI HM-1041,Clostridium,cadaveris,CC88A,,BEI,HM-1041,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,1073357,71545,Dodd et al 2017
+Clostridium citroniae WAL-17108 BEI HM-315,Clostridium,citroniae,WAL-17108,,BEI,HM-315,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742733,46385,GCF_000233455.1
+Clostridium clostridioforme 2_1_49FAA BEI HM-306,Clostridium,clostridioforme,2_1_49FAA,,BEI,HM-306,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742735,46389,GCF_000234155.1
+Clostridium clostridioforme WAL-7855 BEI HM-317,Clostridium,clostridioforme,WAL-7855,,BEI,HM-317,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742736,46391,GCF_001078445.1
+Clostridium hathewayi WAL-18680 BEI HM-308,Clostridium,hathewayi,WAL-18680,,BEI,HM-308,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742737,46393,GCF_000235505.1
+Clostridium hylemonae DSMZ 15053,Clostridium,hylemonae,,,DSMZ,15053,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,553973,30369,GCF_000156515.1
+Clostridium innocuum 6_1_30 BEI HM-173,Clostridium,innocuum,6_1_30,,BEI,HM-173,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,450752,39359,Not assembled
+Clostridium lentocellum CC70A BEI HM-1043,Clostridium,lentocellum,CC70A,,BEI,HM-1043,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,1125704,169436,This manuscript
+Clostridium leptum DSMZ 753,Clostridium,leptum,,,DSMZ,753,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,428125,18923,GCF_000154345.1
+Clostridium methylpentosum DSMZ 5476,Clostridium,methylpentosum,,,DSMZ,5476,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,537013,30029,GCF_000158655.1
+Clostridium orbiscindens 1_3_50AFAA BEI HM-303,Clostridium,orbiscindens,1_3_50AFAA,,BEI,HM-303,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742738,46395,GCF_000760655.1
+Clostridium orbiscindens 1_3_50AFAA BEI HM-303 M1,Clostridium,orbiscindens,1_3_50AFAA,M1,BEI,HM-303,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742738,46395,GCF_000760655.1
+Clostridium orbiscindens 1_3_50AFAA BEI HM-303 M2,Clostridium,orbiscindens,1_3_50AFAA,M2,BEI,HM-303,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742738,46395,GCF_000760655.1
+Clostridium orbiscindens 1_3_50AFAA BEI HM-303 M3,Clostridium,orbiscindens,1_3_50AFAA,M3,BEI,HM-303,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742738,46395,GCF_000760655.1
+Clostridium orbiscindens CC43_001K BEI HM-1044,Clostridium,orbiscindens,CC43_001K,,BEI,HM-1044,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,1073358,71547,This manuscript
+Clostridium perfringens,Clostridium,perfringens,,,,,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,NA,NA,Not sequenced
+Clostridium perfringens WAL-14572 BEI HM-310,Clostridium,perfringens,WAL-14572,,BEI,HM-310,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742739,46397,GCF_000243175.1
+Clostridium saccharolyticum WM1 DSMZ 2544,Clostridium,saccharolyticum,WM1,,DSMZ,2544,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,610130,42097,GCF_000144625.1
+Clostridium scindens ATCC 35704,Clostridium,scindens,,,ATCC,35704,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,411468,18175,GCF_000154505.1
+Clostridium sp. 7_2_43FAA BEI HM-36,Clostridium,,7_2_43FAA,,BEI,HM-36,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,457396,32457,GCF_000158375.2
+Clostridium sp. HGF2 BEI HM-287,Clostridium,,HGF2,,BEI,HM-287,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,908340,54027,GCF_000183585.1
+Clostridium sp. KLE 1755 BEI HM-1033,Clostridium,,KLE 1755,,BEI,HM-1033,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,1226325,173640,GCF_000466465.2
+Clostridium sp. L2-50 BEI HM-634,Clostridium,,L2-50,,BEI,HM-634,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,411489,18211,GCF_000154245.1
+Clostridium sp. M62/1 BEI HM-635,Clostridium,,M62/1,,BEI,HM-635,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,411486,18205,GCF_000159055.1
+Clostridium spiroforme DSMZ 1552 m1_small_col,Clostridium,spiroforme,,m1_small_col,DSMZ,1552,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,428126,18925,GCF_000154805.1
+Clostridium spiroforme DSMZ 1552 m2_large_col,Clostridium,spiroforme,,m2_large_col,DSMZ,1552,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,428126,18925,GCF_000154805.1
+Clostridium sporogenes ATCC 15579,Clostridium,sporogenes,,,ATCC,15579,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,471871,20549,GCF_000155085.1
+Clostridium symbiosum BEI HM-309,Clostridium,symbiosum,,,BEI,HM-309,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742740,46399,GCF_000189595.1
+Clostridium symbiosum WAL 14673 BEI HM-319,Clostridium,symbiosum,WAL 14673,,BEI,HM-319,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,742741,46401,GCF_000189615.1
+Collinsella aerofaciens ATCC 25986,Collinsella,aerofaciens,,,ATCC,25986,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,411903,18167,GCF_000169035.1
+Collinsella stercoris DSMZ 13279,Collinsella,stercoris,,,DSMZ,13279,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,445975,19665,GCF_000156215.1
+Coprobacillus sp. 8_2_54BFAA BEI HM-176,Coprobacillus,,8_2_54BFAA,,BEI,HM-176,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,469597,39365,GCF_000244855.1
+Coprobacillus sp. D6 (29_1) BEI HM-85,Coprobacillus,,D6 (29_1),,BEI,HM-85,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,100884,32461,GCF_000269565.1
+Coprococcus comes ATCC 27758,Coprococcus,comes,,,ATCC,27758,Bacteria,Firmicutes,Clostridia,Clostridiales,Enterococcaceae,470146,20525,GCF_000155875.1
+Coprococcus eutactus ATCC 27759,Coprococcus,eutactus,,,ATCC,27759,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,411474,18187,GCF_000154425.1
+Coprococcus sp. HPP0048 BEI HM-794,Coprococcus,,HPP0048,,BEI,HM-794,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,1078091,72501,GCF_000411355.1
+Coprococcus sp. HPP0074 BEI HM-793,Coprococcus,,HPP0074,,BEI,HM-793,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,1078090,72499,GCF_000411335.1
+Dermabacter sp. HFH0086 BEI HM-857,Dermabacter,,HFH0086,,BEI,HM-857,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Dermabacteraceae,1203568,169448,GCF_000413375.1
+Desulfovibrio piger ATCC 29098 M1,Desulfovibrio,piger,M1,,ATCC,29098,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,411464,18161,GCF_000156375.1
+Desulfovibrio piger ATCC 29098 M2,Desulfovibrio,piger,M2,,ATCC,29098,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,411464,18161,GCF_000156375.1
+Dialister invisus DSMZ 15470,Dialister,invisus,,,DSMZ,15470,Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,592028,33143,GCF_000160055.1
+Dorea formicigenerans ATCC 27755,Dorea,formicigenerans,,,ATCC,27755,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,411461,18155,GCF_000169235.1
+Dorea longicatena DSMZ 13814,Dorea,longicatena,,,DSMZ,13814,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,411462,18157,GCF_000154065.1
+Edwardsiella tarda ATCC 23685,Edwardsiella,tarda,,,ATCC,23685,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Hafniaceae,500638,28661,GCF_000163955.1
+Eggerthella lenta DSMZ 2243,Eggerthella,lenta,,,DSMZ,2243,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,479437,21093,GCF_000024265.1
+Enterobacter cancerogenus ATCC 35316,Enterobacter,cancerogenus,,,ATCC,35316,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,500639,28663,GCF_000155995.1
+Enterococcus faecalis TX1322 BEI HM-202,Enterococcus,faecalis,TX1322,,BEI,HM-202,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,525278,31461,GCF_000159275.1
+Enterococcus faecalis TX2137 BEI HM-432,Enterococcus,faecalis,TX2137,,BEI,HM-432,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,749491,47129,GCF_000147595.1
+Enterococcus faecium ERV165 BEI HM-970,Enterococcus,faecium,ERV165,,BEI,HM-970,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,1134822,82033,GCF_000295235.2
+Enterococcus faecium TX1330 BEI HM-204,Enterococcus,faecium,TX1330,,BEI,HM-204,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,525279,31463,GCF_000159675.1
+Erysipelotrichaceae sp. 6_1_45 BEI HM-180,Erysipelotrichaceae,,6_1_45,,BEI,HM-180,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,469614,39373,GCF_000242175.1
+Escherichia coli MG-1655 ATCC 7000926,Escherichia,coli,MG-1655,,ATCC,7000926,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Enterobacteriaceae,511145 ,225,GCF_000005845.2
+Ethanoligenens harbinense DSMZ 18485,Ethanoligenens,harbinense,YUAN-3,,DSMZ,18485,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,663278,39729,GCF_000178115.2
+Eubacterium dolichum DSMZ 3991,Eubacterium,dolichum,,,DSMZ,3991,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,428127,18927,GCF_000154285.1
+Eubacterium eligens DSMZ 3376,Eubacterium,eligens,,,DSMZ,3376,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,515620,29073,GCF_000146185.1
+Eubacterium rectale ATCC 33656,Eubacterium,rectale,,,ATCC,33656,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,515619,29071,GCF_000020605.1
+Eubacterium siraeum DSMZ 15702,Eubacterium,siraeum,,,DSMZ,15702,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,428128,18921,GCF_000154325.1
+Eubacterium sp. 3_1_31 BEI HM-178,Eubacterium,,3_1_31,,BEI,HM-178,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,457402,39375,GCF_000273585.1
+Eubacterium ventriosum DSMZ 3988,Eubacterium,ventriosum,,,DSMZ,3988,Bacteria,Firmicutes,Clostridia,Clostridiales,Eubacteriaceae,411463,18159,GCF_000153885.1
+Facklamia sp. HGF4 BEI HM-289,Facklamia,,HGF4,,BEI,HM-289,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,NA,NA,Not sequenced
+Faecalibacterium prausnitzii A2-165 DSMZ 17677,Faecalibacterium,prausnitzii,A2-165,,DSMZ,17677,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,411483,18199,GCF_000162015.1
+Faecalibacterium prausnitzii KLE1255 BEI HM-473,Faecalibacterium,prausnitzii,KLE1255,,BEI,HM-473,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,748224,46809,GCF_000166035.1
+Fusobacterium nucleatum CTI-2 BEI HM-993,Fusobacterium,nucleatum,CTI-2,,BEI,HM-993,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,1204475,170357,GCF_000479265.1
+Fusobacterium nucleatum subsp. animalis D11 BEI HM-75,Fusobacterium,nucleatum,"subsp. animalis, D11",,BEI,HM-75,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,556264,32501,GCF_000158535.2
+Fusobacterium ulcerans 12-1B BEI HM-57,Fusobacterium,ulcerans,12-1B,,BEI,HM-57,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,457404,32471,GCF_000242995.2
+Fusobacterium ulcerans AC2_8_11_AN_D5_FAA_7 BEI HM-1194,Fusobacterium,ulcerans,AC2_8_11_AN_D5_FAA_7,,BEI,HM-1194,Bacteria,Fusobacteria,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,1365972,212665,This manuscript
+Granulicatella adiacens DSMZ 9848,Granulicatella,adiacens,,,DSMZ,9848,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,638301,37271,GCF_000160675.1
+Granulicatella sp. CC94D BEI HM-1047,Granulicatella,,CC94D,,BEI,HM-1047,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,1073361,71553,This manuscript
+Holdemanella biformis DSMZ 3989,Holdemanella,biforme,,,DSMZ,3989,Bacteria,Firmicutes,Clostridia,Clostridiales,Erysipelotrichaceae,518637,29269,GCF_000156655.1
+Holdemania filiformis DSMZ 12042,Holdemania,filiformis,,,DSMZ,12042,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,545696,30361,GCF_000157995.1
+Hungatella hathewayi DSM 13479,Hungatella,hathewayi,,,DSMZ,13479,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,566550,30755,GCF_000160095.1
+Intestinibacter bartlettii DSM 16795,Intestinibacter,bartlettii,,,DSMZ,16795,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,445973,19661,GCF_000154445.1
+Lachnospiraceae bacterium 6_1_37FAA BEI HM-182,,,6_1_37FAA,,BEI,HM-182,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,658656,41967,GCF_000191805.1
+Lachnospiraceae sp. 1_4_56FAA BEI HM-161,Lachnospiraceae,,1_4_56FAA,,BEI,HM-161,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,658655,39379,GCF_000218385.1
+Lachnospiraceae sp. 2_1_58FAA BEI HM-154,Lachnospiraceae,,2_1_58FAA,,BEI,HM-154,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,658082,39381,GCF_000218465.1
+Lachnospiraceae sp. 5_1_57FAA BEI HM-157a,Lachnospiraceae,,5_1_57FAA,a,BEI,HM-157,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,658085,39387,GCF_000218425.1
+Lachnospiraceae sp. 5_1_57FAA BEI HM-157b,Lachnospiraceae,,5_1_57FAA,b,BEI,HM-157,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,658085,39387,GCF_000218425.1
+Lachnospiraceae sp. 6_1_63FAA BEI HM-150,Lachnospiraceae,,6_1_63FAA,,BEI,HM-150,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,658083,39395,GCF_000209425.1
+Lachnospiraceae sp. 7_1_58FAA BEI HM-153,Lachnospiraceae,,7_1_58FAA,,BEI,HM-153,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,658087,39397,GCF_000242155.1
+Lactobacillus acidophilus Scav ATCC 4356,Lactobacillus,acidophilus,Scav,,ATCC,4356,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,1423717 ,379350,GCF_003047065.1
+Lactobacillus paracasei subspecies paracasei ATCC BAA-52,Lactobacillus,paracasei,subspecies paracasei,,ATCC,BAA-52,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,1423829 ,222257,GCF_001436385.1
+Lactobacillus plantarum ATCC BAA-793,Lactobacillus,plantarum,,,ATCC,BAA-793,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,220668,356,GCF_000203855.3
+Lactobacillus reuteri CF48-3A BEI HM-102,Lactobacillus,reuteri,CF48-3A,,BEI,HM-102,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,525341,31553,GCF_000159615.1
+Lactobacillus reuteri F275 ATCC 23272,Lactobacillus,reuteri,F275,,ATCC,23272,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,557436 ,15766,GCF_000016825.1
+Lactobacillus rhamnosus GG ATCC 53103,Lactobacillus,rhamnosus,GG,,ATCC,53103,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,568703,40637,GCF_000011045.1
+Lactobacillus rhamnosus LMS2-1 BEI HM-106,Lactobacillus,rhamnosus,LMS2-1,,BEI,HM-106,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,525361,31497,GCF_000160175.1
+Lactobacillus ruminis ATCC 25644,Lactobacillus,ruminis,,,ATCC,25644,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,525362,31499,GCF_000159375.2
+Lactococcus lactis DSMZ 20729,Lactococcus,lactis,,,DSMZ,20729,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,272623,72,GCF_000006865.1
+Lactococcus lactis subspecies lactis ATCC 19435,Lactococcus,lactis,subspecies lactis,,ATCC,19435,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,1360 ,15957,GCF_900099625.1
+Marvinbryantia formatexigens DSMZ 14469,Marvinbryantia,formatexigens,,,DSMZ,14469,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,478749,21051,GCF_000173815.1
+Megasphaera sp. DSMZ 102144,Megasphaera,,,,DSMZ,102144,Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,NA,NA,Not sequenced
+Mitsuokella multacida DSMZ 20544,Mitsuokella,multacida,,,DSMZ,20544,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,500635,28653,GCF_000155955.1
+Muribaculum intestinale DSMZ 28989 YL27,Muribaculum,intestinale,YL27,,DSMZ,28989,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidia,Muribaculaceae,1796646 ,289613,GCF_002201515.1
+Olsenella uli DSMZ 7084,Olsenella,uli,,,DSMZ,7084,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,633147,36641,GCF_000143845.1
+Oscillibacter sp. KLE 1728 BEI HM-1030,Oscillibacter,,KLE 1728,,BEI,HM-1030,Bacteria,Firmicutes,Clostridia,Clostridiales,Oscillospiraceae,1226322,173637,GCF_000469425.1
+Oscillibacter sp. KLE 1745 BEI HM-1031,Oscillibacter,,KLE 1745,,BEI,HM-1031,Bacteria,Firmicutes,Clostridia,Clostridiales,Oscillospiraceae,1226323,173638,GCF_000469445.2
+Paenibacillus sp. CC33_002B BEI HM-1049,Paenibacillus,,CC33_002B,,BEI,HM-1049,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,1073363,71559,This manuscript
+Parabacteroides distasonis 31_2 BEI HM-169,Parabacteroides,distasonis,31_2,,BEI,HM-169,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,658663,39411,GCF_000712235.1
+Parabacteroides distasonis ATCC 8503,Parabacteroides,distasonis,,,ATCC,8503,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,435591,13485,GCF_000012845.1
+Parabacteroides goldsteinii CC87F BEI HM-1050,Parabacteroides,goldsteinii,CC87F,,BEI,HM-1050,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,1073364,71561,This manuscript
+Parabacteroides johnsonii CL02T12C29 BEI HM-731,Parabacteroides,johnsonii,CL02T12C29,,BEI,HM-731,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,999419,64889,GCF_000307375.1
+Parabacteroides johnsonii DSMZ 18315,Parabacteroides,johnsonii,,,DSMZ,18315,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,537006,30007,GCF_000156495.1
+Parabacteroides merdae ATCC 43184,Parabacteroides,merdae,,,ATCC,43184,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,411477,18193,GCF_000154105.1
+Parabacteroides merdae CL03T12C32 BEI HM-730,Parabacteroides,merdae,CL03T12C32,,BEI,HM-730,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,999420,64891,GCF_000307345.1
+Parabacteroides merdae CL09T00C40 BEI HM-729,Parabacteroides,merdae,CL09T00C40,,BEI,HM-729,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,999421,64893,GCF_000307495.1
+Parabacteroides sp. D13 BEI HM-77,Parabacteroides,,D13,,BEI,HM-77,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Tannerellaceae,563193,38359,GCF_000162275.1
+Peptostreptococcus sp. CC14N BEI HM-1051,Peptostreptococcus,,CC14N,,BEI,HM-1051,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptocaccaceae,1073365,71563,Dodd et al 2017
+Prevotella buccae D17,Prevotella,buccae,D17,,,,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,575611,38737,GCF_000162455.1
+Prevotella buccalis ATCC 35310,Prevotella,buccalis,,,ATCC,35310,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,679190,40669,GCF_000177075.1
+Prevotella copri DSMZ 18205,Prevotella,copri,,,DSMZ,18205,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,537011,30025,GCF_000157935.1
+Prevotella oralis CC98A BEI HM-1054,Prevotella,oralis,CC98A,,BEI,HM-1054,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,1073367,71567,GCF_000507905.1
+Prevotella oralis HGA0225 BEI HM-849,Prevotella,oralis,HGA0225,,BEI,HM-849,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,1203550,169459,GCF_000413355.1
+Propionibacterium sp. 5_U_42FAA BEI HM-184,Propionibacterium,,5_U_42FAA,,BEI,HM-184,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Propionibacteriaceae,450748,39413,GCF_000233555.1
+Proteus penneri ATCC 35198,Proteus,penneri,,,ATCC,35198,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Morganellaceae,471881,20551,GCF_000155835.1
+Providencia rustigianii DSM 4541,Providencia,rustigianii,,,DSM,4541,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Morganellaceae,500637,28651,GCF_000156395.1
+Providencia stuartii ATCC 25827,Providencia,stuartii,,,ATCC,25827,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacteriales,Morganellaceae,471874,20553,GCF_000154865.1
+Roseburia intestinalis DSMZ 14610 M1,Roseburia,intestinalis,,M1,DSMZ,14610,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,536231,30005,GCF_000156535.1
+Roseburia intestinalis DSMZ 14610 M2,Roseburia,intestinalis,,M2,DSMZ,14610,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,536231,30005,GCF_000156535.1
+Roseburia inulinivorans DSMZ 16841,Roseburia,inulinivorans,,,DSMZ,16841,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,622312,30757,GCF_000174195.1
+Rothia mucilaginosa CC87LB BEI HM-1055,Rothia,mucilaginosa,CC87LB,,BEI,HM-1055,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Micrococcaceae,1073369,71571,This manuscript
+Ruminococcaceae sp. D16 BEI HM-79,Ruminococcaceae,,D16,,BEI,HM-79,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,552398,42541,GCF_000177015.3
+Ruminococcus albus strain 8 UIC,Ruminococcus,albus,strain 8,,UIC,,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,246199,62,GCF_000178155.2
+Ruminococcus bromii ATCC 27255,Ruminococcus,bromii,,,ATCC,27255,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,40518,390910,GCF_002834225.1
+Ruminococcus flavefaciens FD 1 UIC,Ruminococcus,flavefaciens,FD 1,,UIC,,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,641112,37767,GCF_000174895.1
+Ruminococcus gnavus ATCC 29149,Ruminococcus,gnavus,,,ATCC,29149,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,411470,18179,GCF_000169475.1
+Ruminococcus gnavus CC55_001C BEI HM-1056,Ruminococcus,gnavus,CC55_001C,,BEI,HM-1056,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,1073375,71557,GCF_000507805.1
+Ruminococcus lactaris ATCC 29176,Ruminococcus,lactaris,,,ATCC,29176,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,471875,20557,GCF_000155205.1
+Ruminococcus lactaris CC59_002D BEI HM-1057,Ruminococcus,lactaris,CC59_002D,,BEI,HM-1057,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,1073376,71573,GCF_000507785.1
+Ruminococcus torques ATCC 27756,Ruminococcus,torques,,,ATCC,27756,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,411460,18153,GCF_000153925.1
+Slackia exigua ATCC 700122,Slackia,exigua,,,ATCC,700122,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Eggerthellaceae,649764,38335,GCF_000162875.1
+Slackia heliotrinireducens DSMZ 20476,Slackia,heliotrinireducens,,,DSMZ,20476,Bacteria,Actinobacteria,Coriobacteriia ,Coriobacteriales,Eggerthellaceae,471855,20831,GCF_000023885.1
+Solobacterium moorei CC57E BEI HM-1059,Solobacterium,moorei,CC57E,,BEI,HM-1059,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,1073371,71577,This manuscript
+Solobacterium moorei DSMZ 22971,Solobacterium,moorei,,,DSMZ,22971,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,1123263,188328,GCF_000425005.1
+Streptococcus parasanguinis CC87K BEI HM-1060,Streptococcus,parasanguinis,CC87K,,BEI,HM-1060,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,1073372,71579,GCF_000507765.1
+Streptococcus sanguinis CC94A BEI HM-1061,Streptococcus,sanguinis,CC94A,,BEI,HM-1061,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,1073373,71581,GCF_000507745.1
+Streptococcus thermophilus LMD-9 ATCC 19258,Streptococcus,thermophilus,LMD-9,,ATCC,19258,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,322159,13773,GCF_000014485.1
+Subdoligranulum variabile DSMZ 15176,Subdoligranulum,variabile,,,DSMZ,15176,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,411471,18181,GCF_000157955.1
+Sutterella wadsworthensis HGA0223 BEI HM-852,Sutterella,wadsworthensis,HGA0223,,BEI,HM-852,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Sutterellaceae,1203554,169488,GCF_000411515.1
+Tyzzerella nexilis DSM 1787,Tyzzerella,nexilis,,,DSMZ,1787,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridaceae,500632,28659,GCF_000156035.2
+Varibaculum cambriense AB12_3 BEI HM-1190,Varibaculum,cambriense,AB12_3,,BEI,HM-1190,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,1357413,212651,This manuscript
+Veillonella dispar ATCC 17748,Veillonella,dispar,,,ATCC,17748,Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,546273,30491,GCF_000160015.1
+Veillonella sp. 3_1_44 BEI HM-64,Veillonella,,3_1_44,,BEI,HM-64,Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,457416,41975,GCF_000163715.1
+Veillonella sp. 6_1_27 BEI HM-49,Veillonella,,6_1_27,,BEI,HM-49,Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,450749,41977,GCF_000163735.1
+Veillonella sp. HPA0037 BEI HM-850,Veillonella,,HPA0037,,BEI,HM-850,Bacteria,Firmicutes,Negativicutes,Veillonellales,Veillonellaceae,1203593,169494,GCF_000411535.1

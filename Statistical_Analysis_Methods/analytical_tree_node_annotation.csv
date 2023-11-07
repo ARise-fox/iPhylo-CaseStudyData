@@ -1,0 +1,60 @@
+id,Parent,Branch Length,Label,Is Tip,Level
+36,35,NA,Statistical Analysis ,FALSE,L1
+37,36,NA,Ordination Methods,FALSE,L2
+44,36,NA,Hypothesis Tests,FALSE,L2
+38,37,NA,Direct Gradient Analysis,FALSE,L3
+41,37,NA,Indirect Gradient Analysis,FALSE,L3
+45,44,NA,Parametric Tests,FALSE,L3
+53,44,NA,Nonparametric Tests,FALSE,L3
+39,38,NA,Unimodal model,FALSE,L4
+40,38,NA,Linear model,FALSE,L4
+42,41,NA,Eigenanalysis-based approaches,FALSE,L4
+43,41,NA,Distance-based approaches,FALSE,L4
+46,45,NA,Multiple Samples,FALSE,L4
+49,45,NA,Two Samples,FALSE,L4
+52,45,NA,One Sample,FALSE,L4
+54,53,NA,Multiple Samples,FALSE,L4
+57,53,NA,Two Samples,FALSE,L4
+60,53,NA,One Sample,FALSE,L4
+47,46,NA,Paired Samples,FALSE,L5
+48,46,NA,Independent Samples,FALSE,L5
+50,49,NA,Paired Samples,FALSE,L5
+51,49,NA,Independent Samples,FALSE,L5
+55,54,NA,Paired Samples,FALSE,L5
+56,54,NA,Independent Samples,FALSE,L5
+58,57,NA,Paired Samples,FALSE,L5
+59,57,NA,Independent Samples,FALSE,L5
+1,39,NA,DCCA,TRUE,L6
+2,39,NA,CCA,TRUE,L6
+3,40,NA,RDA,TRUE,L6
+4,42,NA,DCA,TRUE,L6
+5,42,NA,CA,TRUE,L6
+6,42,NA,PCA,TRUE,L6
+7,43,NA,Polar ordination,TRUE,L6
+8,43,NA,PCoA,TRUE,L6
+9,43,NA,NMDS,TRUE,L6
+10,47,NA,Repeated Measures ANOVA,TRUE,L6
+11,48,NA,One-way ANOVA,TRUE,L6
+12,50,NA,Paired t test,TRUE,L6
+13,51,NA,Z test,TRUE,L6
+14,51,NA,Two-group t test,TRUE,L6
+15,52,NA,z test,TRUE,L6
+16,52,NA,One sample t test,TRUE,L6
+17,55,NA,Cochran's Q test,TRUE,L6
+18,55,NA,Kendall's W test,TRUE,L6
+19,55,NA,Friedman test,TRUE,L6
+20,56,NA,Jonckheere-Terpstra test (JT),TRUE,L6
+21,56,NA,Median test,TRUE,L6
+22,56,NA,Kruskal-Wallis test,TRUE,L6
+23,58,NA,Chi-square,TRUE,L6
+24,58,NA,McNemar,TRUE,L6
+25,58,NA,Wilcoxon,TRUE,L6
+26,58,NA,Sign,TRUE,L6
+27,59,NA,Kolmogorov-Smirnov,TRUE,L6
+28,59,NA,Median,TRUE,L6
+29,59,NA,Mann-Whitney,TRUE,L6
+30,59,NA,Chi-square,TRUE,L6
+31,60,NA,Binomial,TRUE,L6
+32,60,NA,Runs,TRUE,L6
+33,60,NA,Kolmogorov-Smirnov,TRUE,L6
+34,60,NA,Chi-square,TRUE,L6
